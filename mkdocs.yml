@@ -83,9 +83,9 @@ hooks:
 nav:
   - Úvod: index.md
   - Návody:
-      - how-to/index.md
+      - Přehled: how-to/index.md
   - Reference:
-      - reference/index.md
+      - Přehled: reference/index.md
       - Moje vzdělávání: reference/moje-vzdelavani.md
       - Katalog kurzů: reference/katalog-kurzu.md
 
