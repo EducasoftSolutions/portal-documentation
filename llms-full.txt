@@ -1,0 +1,123 @@
+# Competent – Nápověda pro studenty
+
+> Dokumentace studentského portálu Competent od Educasoftu
+
+Tato dokumentace popisuje studentský portál LMS Competent.
+Zahrnuje návody pro studenty a referenci studentských funkcí.
+
+
+# Úvod
+
+# Nápověda pro studenty Competent
+
+Vítejte v dokumentaci studentského portálu Competent.
+# Návody
+
+# Návody
+# Reference
+
+# Reference
+
+V této sekci naleznete popisy jednotlivých obrazovek Portálu – jejich prvků, stavů položek a dostupných funkcí. Stránky slouží jako rychlý přehled pro případ, kdy si potřebujete ověřit, co daný prvek nebo stav znamená.
+
+## Obrazovky portálu
+
+- [Moje vzdělávání](https://educasoftsolutions.github.io/portal-documentation/reference/moje-vzdelavani/index.md) – Přehled kurzů a aktivit, které máte přiřazené.
+- [Katalog kurzů](https://educasoftsolutions.github.io/portal-documentation/reference/katalog-kurzu/index.md) – Volitelné kurzy, do kterých se můžete přihlásit.
+
+# Moje vzdělávání
+
+Záložka **Moje vzdělávání** je výchozí obrazovkou Portálu. Zobrazuje přehled všech kurzů a aktivit, které máte aktuálně přiřazeny – jak jednotlivé aktivity, tak kurzy sestavené ze sady více částí.
+
+## Přehled obrazovky
+
+Obrázek
+
+Obrázek obrazovky Moje vzdělávání bude doplněn.
+
+## Prvky obrazovky
+
+| Prvek                          | Umístění     | Popis                                                                                                                                                |
+| ------------------------------ | ------------ | ---------------------------------------------------------------------------------------------------------------------------------------------------- |
+| **Předdefinované pohledy** (1) | horní část   | Přepínač mezi kategoriemi kurzů – například Vše, Hotové kurzy nebo další pohledy podle konfigurace Vašeho portálu.                                   |
+| **Vyhledávání** (2)            | horní část   | Textové pole pro filtrování kurzů podle názvu.                                                                                                       |
+| **Filtry** (3)                 | levá část    | Omezení zobrazeného seznamu podle povinnosti, typu vzdělávání, délky kurzu nebo období konání. Dostupné filtry se mohou lišit dle nastavení portálu. |
+| **Řazení** (4)                 | nad seznamem | Výběr pořadí kurzů – například podle doporučeného pořadí, abecedně nebo podle nejbližšího termínu.                                                   |
+| **Přepínač zobrazení** (5)     | nad seznamem | Přepnutí mezi zobrazením jako seznam nebo dlaždice.                                                                                                  |
+| **Části kurzu** (6)            | u sady       | Rozbalení sady na jednotlivé části. U termínových aktivit se zobrazuje informace o konkrétním datu konání.                                           |
+
+Kategorie a štítky
+
+Kurzy lze členit do kategorií a podkategorií pomocí štítků. Strukturu kategorií i dostupné filtry nastavuje administrátor portálu – obsah se proto může lišit mezi pracovišti.
+
+## Položka v seznamu kurzů
+
+Každá položka v seznamu obsahuje tyto informace:
+
+Obrázek
+
+Obrázek ukázkové položky kurzu bude doplněn.
+
+| Prvek                    | Popis                                                                                            |
+| ------------------------ | ------------------------------------------------------------------------------------------------ |
+| **Název** (1)            | Název kurzu nebo aktivity.                                                                       |
+| **Typ** (2)              | Druh obsahu – například e-learning, školení nebo sada.                                           |
+| **Štítek** (3)           | Volitelný popis nebo kategorie přiřazená kurzu.                                                  |
+| **Termín dokončení** (4) | Datum, do kdy je kurz nebo aktivita požadována.                                                  |
+| **Aktuální stav** (5)    | Stav plnění – například splněno nebo nesplněno.                                                  |
+| **Tlačítko Spustit** (6) | Tlačítko pro zahájení kurzu nebo aktivity. Zobrazuje se tehdy, kdy je kurz dostupný ke spuštění. |
+
+## Související stránky
+
+- [Katalog kurzů](https://educasoftsolutions.github.io/portal-documentation/reference/katalog-kurzu/index.md)
+
+# Katalog kurzů
+
+Záložka **Katalog kurzů** zobrazuje vzdělávání, které máte k dispozici pro zápis nebo o které můžete požádat. Nabídka kurzů se řídí nastavením Vaší organizace – obsah i dostupné filtry se mohou u různých zákazníků lišit.
+
+______________________________________________________________________
+
+## Přehled obrazovky
+
+Obrázek
+
+Screenshot obrazovky Katalog kurzů s označenými prvky (1)–(4) – [připravujeme](#).
+
+Obrazovka Katalogu kurzů se skládá z nástrojové lišty v horní části a seznamu kurzů níže.
+
+### Prvky nástrojové lišty
+
+| Prvek              | Označení | Popis                                                                                                                                                                |
+| ------------------ | -------- | -------------------------------------------------------------------------------------------------------------------------------------------------------------------- |
+| Vyhledávací pole   | **(1)**  | Filtruje kurzy podle zadaného textu (název, klíčové slovo).                                                                                                          |
+| Filtry             | **(2)**  | Umožňují zúžit nabídku podle dostupných parametrů, např. typu vzdělávání, délky, období konání nebo formy přihlášení. Dostupné filtry závisí na konfiguraci systému. |
+| Řazení             | **(3)**  | Nastavuje pořadí zobrazených kurzů – například dle abecedy, pořadí nebo nejbližšího termínu.                                                                         |
+| Přepínač zobrazení | **(4)**  | Přepíná mezi zobrazením všech dostupných kurzů a pouze těch, na které jste zapsáni. Přepínač nemusí být u všech organizací dostupný.                                 |
+
+Konfigurace filtrů
+
+Struktura filtrů a kategorií závisí na nastavení Vaší organizace. Pokud konkrétní filtr nebo možnost řazení nevidíte, nemusí být pro Vaše prostředí aktivována.
+
+______________________________________________________________________
+
+## Seznam kurzů
+
+Kurzy jsou zobrazeny jako dlaždice nebo jako řádkový seznam. Každá položka obsahuje základní informace o kurzu. Kliknutí na položku otevře detail kurzu.
+
+______________________________________________________________________
+
+## Položka v katalogu
+
+Detail kurzu je dostupný po kliknutí na příslušnou dlaždici nebo řádek v seznamu. Na stránce detailu naleznete podrobné informace o kurzu a možnosti zápisu.
+
+______________________________________________________________________
+
+## Banner: žádost o nové vzdělávání
+
+Pokud to konfigurace Vaší organizace umožňuje, zobrazuje se v dolní části Katalogu kurzů banner s možností podat žádost o nové vzdělávání. Banner vede na **poptávkový formulář**, prostřednictvím kterého můžete navrhnout zařazení nového kurzu do nabídky.
+
+______________________________________________________________________
+
+## Související stránky
+
+- [Moje vzdělávání](https://educasoftsolutions.github.io/portal-documentation/reference/moje-vzdelavani/index.md)
