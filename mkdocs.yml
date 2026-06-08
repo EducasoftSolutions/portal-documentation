@@ -5,6 +5,7 @@ site_url: https://educasoftsolutions.github.io/portal-documentation/
 
 repo_name: EducasoftSolutions/portal-documentation
 repo_url: https://github.com/EducasoftSolutions/portal-documentation
+edit_uri: edit/main/docs/
 
 theme:
   name: material
