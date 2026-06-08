@@ -12,11 +12,11 @@ Zahrnuje návody pro studenty a referenci studentských funkcí.
 
 ## Návody
 
-- [Návody](https://educasoftsolutions.github.io/portal-documentation/how-to/index.md)
+- [Přehled](https://educasoftsolutions.github.io/portal-documentation/how-to/index.md)
 
 ## Reference
 
-- [Reference](https://educasoftsolutions.github.io/portal-documentation/reference/index.md)
+- [Přehled](https://educasoftsolutions.github.io/portal-documentation/reference/index.md)
 - [Moje vzdělávání](https://educasoftsolutions.github.io/portal-documentation/reference/moje-vzdelavani/index.md)
 - [Katalog kurzů](https://educasoftsolutions.github.io/portal-documentation/reference/katalog-kurzu/index.md)
 
