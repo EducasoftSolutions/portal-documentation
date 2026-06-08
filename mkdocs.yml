@@ -1,10 +1,10 @@
 site_name: "Competent – Nápověda pro studenty"
 site_description: Dokumentace studentského portálu Competent od Educasoftu
 site_author: Educasoft
-site_url: https://docs-studenti.competent.cz/
+site_url: https://educasoftsolutions.github.io/portal-documentation/
 
-repo_name: competent-docs-studenti
-repo_url: https://docs-studenti.competent.cz/
+repo_name: EducasoftSolutions/portal-documentation
+repo_url: https://github.com/EducasoftSolutions/portal-documentation
 
 theme:
   name: material
